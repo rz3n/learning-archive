@@ -1,0 +1,7 @@
+backup:
+  - name: Dir1
+    source: dir1
+    destination: backup/dir1
+  - name: Dir2
+    source: dir2
+    destination: backup/dir2

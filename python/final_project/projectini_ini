@@ -1,0 +1,13 @@
+[BASIC]
+outFile=projectoutput.log
+[FILTER_ACCOUNTS]
+sortAccountsReverse=False
+sortAccountsCriteria=name
+linesOfAccountsData=All
+[FILTER_LOGS]
+sortLogsReverse=True
+logTimeFrom=Apr  1 00:00:00
+logTimeTo=Apr 10 12:00:00
+logCriteria=CRON
+[NETWORKING]
+hostIP=192.168.100.10
